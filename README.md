@@ -17,4 +17,7 @@ Paste the index.js code in console and click enter.
 The script is ready when the console says "Ready To Play, Just Press Space!!"
 
 
+
+
+
 *note: remember that this is just simple automation code, not a machine learning code. so it will still losing at some point*
